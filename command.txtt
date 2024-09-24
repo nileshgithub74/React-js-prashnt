@@ -3,4 +3,8 @@ npm i bootstrap@5.3.3
 
 npm create vite@latest
 
+import 'bootstrap/dist/css/bootstrap.min.css'
 
+
+
+Fragment :    Allowing grouping the mulitple elements wihtout extra Dom nodes
